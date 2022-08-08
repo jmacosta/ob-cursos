@@ -1,0 +1,16 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es el primer proyecto de Javascript con Node en OpenBottcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "holamundo",
+    "firstProject"
+  ],
+  "author": "Jmacosta",
+  "license": "ISC"
+}
